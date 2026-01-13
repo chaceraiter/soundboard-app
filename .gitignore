@@ -2,11 +2,11 @@
 DerivedData/
 .derivedData/
 *.xcuserstate
-*.xcuserdata/
+xcuserdata/
+*.xcworkspace/
 *.moved-aside
 *.xccheckout
 *.xcscmblueprint
 
 # macOS
 .DS_Store
-
