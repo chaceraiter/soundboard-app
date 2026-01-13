@@ -16,6 +16,16 @@
 		00A000000000000000000006 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000021 /* LaunchScreen.storyboard */; };
 		00A000000000000000000007 /* beep_a.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000022 /* beep_a.wav */; };
 		00A000000000000000000008 /* beep_b.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000023 /* beep_b.wav */; };
+		00A000000000000000000200 /* beep_c.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000024 /* beep_c.wav */; };
+		00A000000000000000000201 /* beep_d.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000025 /* beep_d.wav */; };
+		00A000000000000000000202 /* beep_e.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000026 /* beep_e.wav */; };
+		00A000000000000000000203 /* beep_f.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000027 /* beep_f.wav */; };
+		00A000000000000000000204 /* beep_g.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000028 /* beep_g.wav */; };
+		00A000000000000000000205 /* beep_h.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A000000000000000000029 /* beep_h.wav */; };
+		00A000000000000000000206 /* beep_i.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A00000000000000000002A /* beep_i.wav */; };
+		00A000000000000000000207 /* beep_j.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A00000000000000000002B /* beep_j.wav */; };
+		00A000000000000000000208 /* beep_k.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A00000000000000000002C /* beep_k.wav */; };
+		00A000000000000000000209 /* beep_l.wav in Resources */ = {isa = PBXBuildFile; fileRef = 00A00000000000000000002D /* beep_l.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +40,16 @@
 		00A000000000000000000021 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00A000000000000000000022 /* beep_a.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_a.wav; sourceTree = "<group>"; };
 		00A000000000000000000023 /* beep_b.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_b.wav; sourceTree = "<group>"; };
+		00A000000000000000000024 /* beep_c.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_c.wav; sourceTree = "<group>"; };
+		00A000000000000000000025 /* beep_d.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_d.wav; sourceTree = "<group>"; };
+		00A000000000000000000026 /* beep_e.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_e.wav; sourceTree = "<group>"; };
+		00A000000000000000000027 /* beep_f.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_f.wav; sourceTree = "<group>"; };
+		00A000000000000000000028 /* beep_g.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_g.wav; sourceTree = "<group>"; };
+		00A000000000000000000029 /* beep_h.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_h.wav; sourceTree = "<group>"; };
+		00A00000000000000000002A /* beep_i.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_i.wav; sourceTree = "<group>"; };
+		00A00000000000000000002B /* beep_j.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_j.wav; sourceTree = "<group>"; };
+		00A00000000000000000002C /* beep_k.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_k.wav; sourceTree = "<group>"; };
+		00A00000000000000000002D /* beep_l.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep_l.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +120,16 @@
 			children = (
 				00A000000000000000000022 /* beep_a.wav */,
 				00A000000000000000000023 /* beep_b.wav */,
+				00A000000000000000000024 /* beep_c.wav */,
+				00A000000000000000000025 /* beep_d.wav */,
+				00A000000000000000000026 /* beep_e.wav */,
+				00A000000000000000000027 /* beep_f.wav */,
+				00A000000000000000000028 /* beep_g.wav */,
+				00A000000000000000000029 /* beep_h.wav */,
+				00A00000000000000000002A /* beep_i.wav */,
+				00A00000000000000000002B /* beep_j.wav */,
+				00A00000000000000000002C /* beep_k.wav */,
+				00A00000000000000000002D /* beep_l.wav */,
 			);
 			path = Sounds;
 			sourceTree = "<group>";
@@ -175,6 +205,16 @@
 				00A000000000000000000006 /* LaunchScreen.storyboard in Resources */,
 				00A000000000000000000007 /* beep_a.wav in Resources */,
 				00A000000000000000000008 /* beep_b.wav in Resources */,
+				00A000000000000000000200 /* beep_c.wav in Resources */,
+				00A000000000000000000201 /* beep_d.wav in Resources */,
+				00A000000000000000000202 /* beep_e.wav in Resources */,
+				00A000000000000000000203 /* beep_f.wav in Resources */,
+				00A000000000000000000204 /* beep_g.wav in Resources */,
+				00A000000000000000000205 /* beep_h.wav in Resources */,
+				00A000000000000000000206 /* beep_i.wav in Resources */,
+				00A000000000000000000207 /* beep_j.wav in Resources */,
+				00A000000000000000000208 /* beep_k.wav in Resources */,
+				00A000000000000000000209 /* beep_l.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
