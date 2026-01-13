@@ -11,7 +11,7 @@
 ## What’s Working
 - SwiftUI grid UI (`SoundboardApp/ContentView.swift`).
 - Audio playback via `AVAudioPlayer` that stops the previous sound on new tap (`SoundboardApp/Audio/AudioPlayer.swift`).
-- Two bundled sample sounds (`SoundboardApp/Resources/Sounds/beep_a.wav`, `SoundboardApp/Resources/Sounds/beep_b.wav`).
+- Twelve bundled sample sounds (`SoundboardApp/Resources/Sounds/beep_a.wav` … `SoundboardApp/Resources/Sounds/beep_l.wav`).
 
 ## Open Questions
 - Audio UX details (looping, long-press, stop button, haptics, etc.)
